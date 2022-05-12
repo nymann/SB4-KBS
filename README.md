@@ -1,12 +1,12 @@
 # SB4 KOM F20
 
-##### Links
+### Links
 
 - [Course plan](https://drive.google.com/file/d/18tYrFaN6ZBeVx1RgOgKlm8kXW7hhFNbE/view)
 - [Github Examples](https://github.com/sweat-tek/SB4-KOM-F20)
 - [FAQ](https://docs.google.com/document/d/1dga-FmHevy_PlANsvf8dG9uprwnxdMr-NTB_SIEYb9w/view)
 
-##### Labs
+### Course Plan
 
 | W   | Topic                                                                                                       | Lecture                                                                                                                                                                                                                                                                                                                                                                                                        | Labs                                                                                                                                                                                         | Literature                                                                          |
 | --- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -23,14 +23,14 @@
 | 16  | Jigsaw in JDK 9                                                                                             | [Jigsaw](https://drive.google.com/file/d/18EFpykC6zMA_tPzSPY6dD-82h_6sK4jc)                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                              | [Oraa](#oraa) [Rei](#rei)                                                           |
 | 17  | Exam Questions                                                                                              | [Exam](https://drive.google.com/file/d/1YYNY-IlPTR8bPB6RJEDRM8f6FivnO0Vg)                                                                                                                                                                                                                                                                                                                                      | [EndEval](https://docs.google.com/document/d/17GaFyCVYGt5AB9_aqyH8kexM6Ze0fy58agdA4MiZ2D8)                                                                                                   |                                                                                     |
 
-##### Individual Mandatory Assignments
+### Individual Mandatory Assignments
 
 The individual mandatory labs will be part of your portfolio for the exam and have to be handed in according to the following deadlines.
 
 - [Hand-in 1](https://drive.google.com/file/d/1-uB_29aGa7knubG043lwi2iqUepHohQN)
 - [Hand-in 2](https://drive.google.com/file/d/1XNHEyX0XxmuolEG_vL-zRaHENAA1-Zi6)
 
-##### Literature
+### Literature
 
 ##### [BBB00](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2000_005_001_13715.pdf)
 
