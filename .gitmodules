@@ -1,3 +1,6 @@
 [submodule "code_examples"]
 	path = code_examples
 	url = https://github.com/sweat-tek/SB4-KOM-F20.git
+[submodule "labs/IntroLab"]
+	path = labs/IntroLab
+	url = git@github.com:nymann/IntroLab.git
