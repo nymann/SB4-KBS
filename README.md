@@ -1,4 +1,6 @@
-# SB4 KOM F20
+# SB4-KBS
+
+_Component-based Software Engineering_
 
 ### Links
 
