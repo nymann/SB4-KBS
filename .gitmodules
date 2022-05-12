@@ -31,3 +31,6 @@
 [submodule "assignments/hand_in_1/report"]
 	path = assignments/hand_in_1/report
 	url = https://github.com/nymann/SB4-KBS-Hand-In-1
+[submodule "assignments/hand_in_2/report"]
+	path = assignments/hand_in_2/report
+	url = https://github.com/nymann/SB4-KBS-Hand-In-2
