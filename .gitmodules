@@ -10,3 +10,6 @@
 [submodule "labs/JavaLab"]
 	path = labs/JavaLab
 	url = git@github.com:nymann/JavaLab.git
+[submodule "labs/DesignLab"]
+	path = labs/DesignLab
+	url = git@github.com:nymann/DesignLab.git
