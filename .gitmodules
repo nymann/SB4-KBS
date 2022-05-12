@@ -22,3 +22,6 @@
 [submodule "labs/OSGiLab"]
 	path = labs/OSGiLab
 	url = git@github.com:nymann/OSGiLab.git
+[submodule "labs/SpringLab"]
+	path = labs/SpringLab
+	url = git@github.com:nymann/SpringLab.git
