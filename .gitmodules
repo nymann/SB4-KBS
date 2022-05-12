@@ -13,3 +13,6 @@
 [submodule "labs/DesignLab"]
 	path = labs/DesignLab
 	url = git@github.com:nymann/DesignLab.git
+[submodule "labs/NetBeansLab1"]
+	path = labs/NetBeansLab1
+	url = git@github.com:nymann/NetBeansLab1.git
