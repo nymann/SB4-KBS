@@ -19,3 +19,6 @@
 [submodule "labs/NetBeansLab2"]
 	path = labs/NetBeansLab2
 	url = git@github.com:nymann/NetBeansLab2.git
+[submodule "labs/OSGiLab"]
+	path = labs/OSGiLab
+	url = git@github.com:nymann/OSGiLab.git
