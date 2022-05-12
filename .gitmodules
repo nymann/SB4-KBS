@@ -28,9 +28,3 @@
 [submodule "labs/TestLab"]
 	path = labs/TestLab
 	url = git@github.com:nymann/TestLab.git
-[submodule "assignments/hand_in_1"]
-	path = assignments/hand_in_1
-	url = https://github.com/nymann/SB4-KMS-Hand-In-1
-[submodule "assignments/hand_in_2"]
-	path = assignments/hand_in_2
-	url = https://github.com/nymann/SB4-KMS-Hand-In-2
