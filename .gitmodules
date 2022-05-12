@@ -4,3 +4,6 @@
 [submodule "labs/IntroLab"]
 	path = labs/IntroLab
 	url = git@github.com:nymann/IntroLab.git
+[submodule "labs/GamesLab"]
+	path = labs/GamesLab
+	url = git@github.com:nymann/GamesLab.git
